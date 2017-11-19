@@ -94,6 +94,3 @@ class PlotWidget(GraphicsView):
     def getPlotItem(self):
         """Return the PlotItem contained within."""
         return self.plotItem
-        
-        
-        
